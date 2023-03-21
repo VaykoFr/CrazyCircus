@@ -199,9 +199,7 @@ public class Main {
                             case "MA":
                                 Order.MA(current);
                                 break;
-                            case "SCORE":
-                                System.out.println("Score du joueur " + player.getName() + " = " + player.getScore());
-                                break;
+
 
                         }
                     }
